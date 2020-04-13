@@ -1,0 +1,29 @@
+.button {
+  text-align: center;
+  text-decoration: none;
+  border: 0px;
+  padding: 7px;
+  color: #FFF;
+  margin: 3px;
+  outline: 0;
+}
+
+.rounded {
+  border-radius: 50px;
+}
+
+.button:hover {
+  filter: brightness(90%);
+}
+
+.primary {
+  background-color: #008CBA;
+}
+
+.danger {
+  background-color: #f44336;
+}
+
+.success {
+  background-color: #4CAF50;
+}

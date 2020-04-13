@@ -1,0 +1,18 @@
+.alert {
+    position: fixed;
+    top: 55px;
+    right: 1%;
+    width: 24%;
+    height: 27px;
+    display: block;
+    color: #FFF;
+    mix-blend-mode: difference;
+}
+
+@media (max-width: 600px) {
+    .alert {
+        top: calc(100% - 27px);
+        width: 100%;
+        right: 0;
+    }
+}

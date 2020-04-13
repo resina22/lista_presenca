@@ -1,0 +1,16 @@
+.input{
+  margin: 0 3px;
+}
+
+.input.text {
+  width: 99%;
+  height: 30px;
+  border-radius: 5px;
+  border-style: none;
+  border: 1px solid var(--secondary);
+}
+
+input.checkbox {
+  width: 17px; 
+  height: 17px;
+}

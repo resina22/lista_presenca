@@ -1,0 +1,11 @@
+.container-subjects {
+    width: 60%;
+    margin: 10px auto;
+    display: block;
+}
+
+.container-subjects > input[type=date] {
+    width: 200px;
+    display: block;
+    margin: 5px auto;
+}
